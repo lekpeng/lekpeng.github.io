@@ -5,18 +5,53 @@
 ### Category Name 1 
 
 [Health Up](/sample_page)
+[Health Up Repo](http://example.com/)
+Leanring Objectives: 
+-Static rendering with usage of DOM manipulation and JavaScript
+-Make an Api call 
+-Styled with CSS
+
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 [Classpass clone](/sample_page)
+[Claspass Clone Repo](http://example.com
+-Objectives: 
+-Server site rendering with MVC architechture
+-Usage of non-relational Database 
+
+Tool User:
+Express, node,js, Bootstrap, MDB, JavaScript, MongoDB
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Airbnb Clone](/pdf/sample_presentation.pdf)
+[Airbnb Clone Frontend Repo](http://example.com/)
+[Airbnb Clone Backend Repo](http://example.com/)
+-Objectives: 
+-Team project, Client Side rendering
+-RESTFUL API endpoints
+-Usage of non-relational Database 
+
+Tool User:
+MERN stack.
+Express, node,js, MongoDB, JavaScript, ReactJS, Bootstrap, MUI Library
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Webooks](http://example.com/)
+[Webooks Frontend Repo](http://example.com/)
+[Webooks Backend Repo](http://example.com/)
+-Objectives: 
+-Client Side rendering
+-RESTFUL API endpoints
+-Usage of non-relational Database 
+
+Tool User:
+MERN stack.
+Express, node,js, MongoDB, JavaScript, ReactJS, Bootstrap, MUI Library
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
