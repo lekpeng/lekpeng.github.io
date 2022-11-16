@@ -18,11 +18,11 @@
 #### Application Link: [Classpass Clone](https://sandrafongshurui.github.io/Health-Up/index.html)
 #### Repo Link : [https://github.com/Sandrafongshurui/Health-Up](https://github.com/Sandrafongshurui/Health-Up)
 #### Learning Objectives: 
-- Static rendering with usage of DOM manipulation and JavaScript
-- Usage of OOP in JavaScript
-- Make an Api call 
-- CSS, Bootstrap
-- Mobile Responsive
+- Server site rendering with usage of DOM manipulation and JavaScript
+- 
+--Usage of non-relational Database 
+-
+
 #### Tools Used:
 [Classpass clone](/sample_page)
 [Claspass Clone Repo](http://example.com
