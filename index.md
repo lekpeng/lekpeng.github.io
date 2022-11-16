@@ -1,19 +1,18 @@
 ## Portfolio
 
----
-
 ### Health Up
-Application Link: [Health Up](https://sandrafongshurui.github.io/Health-Up/index.html)
-Repo Link : [https://github.com/Sandrafongshurui/Health-Up](https://github.com/Sandrafongshurui/Health-Up)
+#### Application Link: [Health Up](https://sandrafongshurui.github.io/Health-Up/index.html)
 
-Learning Objectives: 
+#### Repo Link : [https://github.com/Sandrafongshurui/Health-Up](https://github.com/Sandrafongshurui/Health-Up)
+
+#### Learning Objectives: 
 - Static rendering with usage of DOM manipulation and JavaScript
 - Usage of OOP in JavaScript
 - Make an Api call 
 - CSS, Bootstrap
 - Mobile Responsive
 
-Tools Used:
+#### Tools Used:
 - JavaScript, Bootstrap, HTML/CSS
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
