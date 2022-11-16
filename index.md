@@ -13,7 +13,7 @@
 - JavaScript, Bootstrap, HTML/CSS
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
+---
 [Classpass clone](/sample_page)
 [Claspass Clone Repo](http://example.com
 -Objectives: 
