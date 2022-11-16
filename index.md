@@ -1,7 +1,7 @@
-## Portfolio
+# Portfolio
 
 ### Health Up
-#### Application Link: [Health Up](https://sandrafongshurui.github.io/Health-Up/index.html)
+##### Application Link: [Health Up](https://sandrafongshurui.github.io/Health-Up/index.html)
 
 #### Repo Link : [https://github.com/Sandrafongshurui/Health-Up](https://github.com/Sandrafongshurui/Health-Up)
 
