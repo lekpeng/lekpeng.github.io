@@ -65,7 +65,8 @@
 - Deployment
 
 #### Frontend Tools:
-- ReactJS, React-Hook-Form, JavaScript, HTML/CSS, MUI Library, 
+- ReactJS, React-Hook-Form, JavaScript, HTML/CSS, MUI Library
+
 #### Backend Tools:
 - Express, nodejs, ReactJS, Image-kit, JavaScript, MongoDB , MongoDB-Airbnb Dataset,
 
