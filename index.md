@@ -1,8 +1,11 @@
 # Portfolio
 
-### Health Up
-#### Application Link: [Health Up](https://sandrafongshurui.github.io/Health-Up/index.html)
-#### Repo Link : [https://github.com/Sandrafongshurui/Health-Up](https://github.com/Sandrafongshurui/Health-Up)
+## Health Up
+<p>A web application called "Health Up" which helps the user achieve their health goal, by calculating the calories they need and recommending recipes for them.</p>
+
+- **[Application Link](https://sandrafongshurui.github.io/Health-Up/index.html)**
+- **[Repo](https://github.com/Sandrafongshurui/Health-Up)**
+
 #### Learning Objectives: 
 - Static rendering with usage of DOM manipulation and JavaScript
 - Usage of OOP in JavaScript
@@ -17,9 +20,12 @@
 <img src="images/HealthUp-Sample.png?raw=true"/>
 
 ---
-### Classpass Clone
-#### Application Link: [Classpass Clone](https://classpass-clone.onrender.com/)
-#### Repo Link : [https://github.com/Sandrafongshurui/Classpass](https://github.com/Sandrafongshurui/Classpass)
+## Classpass Clone
+<p>A booking application inspired by Classpass website. It allows users to book classes at studios with credits. It is a application for multiple companies/studios to reach out to a wider range of audience, all within one application.</p>
+
+- **[Application Link](https://classpass-clone.onrender.com/)**
+- **[Repo](https://github.com/Sandrafongshurui/Classpass)**
+
 #### Learning Objectives: 
 - Server site rendering with EJS template
 - Usage of non-relational Database 
@@ -37,10 +43,13 @@
 <img src="images/Classpass-sample.png?raw=true"/>
 
 ---
-### Airbnb Clone (Group project)
-#### Application Link: [Airbnb Clone](https://sandrafongshurui.github.io/Airbnb-react/)
-#### Frontend Repo Link : [https://github.com/Sandrafongshurui/Airbnb-react](https://github.com/Sandrafongshurui/Airbnb-reacts)
-#### Backend Repo Link : [https://github.com/Sandrafongshurui/Airbnb-express](https://github.com/Sandrafongshurui/Airbnb-express)
+## Airbnb Clone (Group project)
+<p>Same as the Airbnb we all know, this application operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.</p>
+
+- **[Application Link](https://sandrafongshurui.github.io/Airbnb-react/)**
+- **[Frontend Repo](https://github.com/Sandrafongshurui/Airbnb-react)**
+- **[Backend Repo](https://github.com/Sandrafongshurui/Airbnb-express)**
+
 #### Learning Objectives: 
 - Client site rendering 
 - ReactJS
@@ -90,7 +99,7 @@
 
 #### Backend Tools:
 - Express, Node.js, PostgresSQL, Google-Cloud, Image-kit, Sequelize-ORM, Elephant SQL, JavaScript
-- 
-<img src="images/Webooks-Sample.png?raw=true"/>
+
+<img src="images/login.png?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
