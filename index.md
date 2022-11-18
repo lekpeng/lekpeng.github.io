@@ -10,6 +10,7 @@
 - CSS, Bootstrap
 - Mobile Responsive
 - Wireframing and user workflow
+
 #### Tools Used:
 - JavaScript, Bootstrap, HTML/CSS
 <img src="images/HealthUp-Sample.png?raw=true"/>
@@ -60,7 +61,9 @@
 <img src="images/Airbnb-Sample.png?raw=true"/>
 
 ---
-#### Webooks
+### Webooks
+<p>An online library that allows you to browse, borrow and read books! Inspired by NLB(National Library) Libby Application.</p>
+
 - **[Application Link](https://main--w-ebooks.netlify.app/)**
 - **[Frontend Repo](https://github.com/Sandrafongshurui/webooks-react)**
 - **[Backend Repo](https://github.com/Sandrafongshurui/webooks-express/tree/production)**
