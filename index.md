@@ -13,6 +13,7 @@
 
 #### Tools Used:
 - JavaScript, Bootstrap, HTML/CSS
+
 <img src="images/HealthUp-Sample.png?raw=true"/>
 
 ---
@@ -32,6 +33,7 @@
 
 #### Tools Used:
 - Express, nodejs, JavaScript, Bootstrap, HTML/CSS, MongoDB, JOI Library, Adobe XD
+
 <img src="images/Classpass-sample.png?raw=true"/>
 
 ---
@@ -61,7 +63,7 @@
 <img src="images/Airbnb-Sample.png?raw=true"/>
 
 ---
-### Webooks
+## Webooks
 <p>An online library that allows you to browse, borrow and read books! Inspired by NLB(National Library) Libby Application.</p>
 
 - **[Application Link](https://main--w-ebooks.netlify.app/)**
@@ -88,6 +90,7 @@
 
 #### Backend Tools:
 - Express, Node.js, PostgresSQL, Google-Cloud, Image-kit, Sequelize-ORM, Elephant SQL, JavaScript
+- 
 <img src="images/Webooks-Sample.png?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
