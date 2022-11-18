@@ -1,4 +1,4 @@
-# Portfolio
+# Web Applications Projects
 
 ## Health Up
 <p>A web application called "Health Up" which helps the user achieve their health goal, by calculating the calories they need and recommending recipes for them.</p>
