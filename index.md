@@ -56,6 +56,7 @@ execute all backend API endpoints  </p>
 
 <img src="images/HealthUp-Sample.png?raw=true"/>
 
+---
 
 # AR (Augmented Reality) Applications
 ## Augmented Training - Emergency Lighting
