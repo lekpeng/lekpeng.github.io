@@ -1,8 +1,8 @@
 # Web Applications
 
 ### Webooks
-<p>An online library that allows you to browse, borrow and read books, inspired by NLB(National Library) Libby Application. Utilizing relational database and Google-Cloud along with squelize-ORM 
-execute all backend API endpoints.  </p>
+<p>An online library that allows you to browse, borrow and read books, inspired by NLB(National Library) Libby application. Utilizing relational database and Google-Cloud along with squelize-ORM to
+execute all backend API endpoints.</p>
 
 - **[Application Link](https://main--w-ebooks.netlify.app/)**
 - **[Frontend Repo](https://github.com/Sandrafongshurui/webooks-react)**
@@ -16,7 +16,7 @@ execute all backend API endpoints.  </p>
 ---
 
 ### Classpass Clone
-<p>A booking application inspired by Classpass web application. Applied MVC achitechture along with a non-relational database and RESTful routes.</p>
+<p>A booking application inspired by Classpass. Applied MVC achitechture along with a non-relational database and RESTful routes.</p>
 
 - **[Application Link](https://classpass-clone.onrender.com/)**
 - **[Repo](https://github.com/Sandrafongshurui/Classpass)**
@@ -84,7 +84,7 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 
 ### Virtual Walkthrough - 360 with 3d Asset 
 
-<p>An interactive, virtual walkthrough exploring a plant with intergrated 3d Model equipment, in addtion to emergency shutdown procedures. </p>
+<p>An interactive, virtual walkthrough exploring a plant with intergrated 3d Model equipment, in addition to an emergency shutdown procedure. </p>
 
 - [Demo Video](https://youtu.be/xnGcVrorWtM)
 - Tools: **Unity Engine(C#), 3ds Max**
