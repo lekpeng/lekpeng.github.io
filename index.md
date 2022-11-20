@@ -62,40 +62,40 @@ execute all backend API endpoints  </p>
 
 <p>An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.</p>
 
-- **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)**
+- **[Application Video](https://youtu.be/Fd79y0LqodA)**
 
 #### Tools and frameworks used:
 - Unity Engine, C#, 3ds Max, Vuforia
 
 <img src="images/EmergencyLighting-Sample.png?raw=true"/>
 
-## Virtual Walkthrough - Augmented - MPA Gallery
+## Virtual Walkthrough - Augmented MPA Gallery
 
 <p>A virtual walkthrough of Singapore Maritime Gallery using AR and 360 technology, featuring information hotspots and a 3d map.</p>
 
-- **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)**
+- **[Application Video](https://youtu.be/cpl3S6h238g)**
 
 #### Tools and frameworks used:
 - Unity Engine, C#, Vuforia, SP IXTC 360 editor Unity Package, Insta360 Editor
 
 <img src="images/SMG-Sample.png?raw=true"/>
 
-## Simulation - 2d - Sprinkler System
+## Simulation - Sprinkler System
 
-<p>An interactive, guided simulation process of how the sprinkler system works when there is a power failure </p>
+<p>An interactive, guided simulation process of the maintenence of the sprinkler system during a power failure </p>
 
-- **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)**
+- **[Application Video](https://youtu.be/WS0z_6aJtF8)**
 
 #### Tools and frameworks used:
 - Unity Engine, C#
 
 <img src="images/SprinklerSystem-Sample.png?raw=true"/>
 
-## Virtual Walkthrough - 360 with Modelling - ECTC
+## Virtual Walkthrough - 360 with 3d Asset 
 
 <p>An interactive, virtual walkthrough exploring a plant with intergrated 3d Model equipment, in addtion to emergency shutdown procedures. </p>
 
-- **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)**
+- **[Application Video](https://youtu.be/xnGcVrorWtM))**
 
 #### Tools and frameworks used:
 - Unity Engine, C#, 3ds Max
@@ -106,7 +106,7 @@ execute all backend API endpoints  </p>
 
 <p>A 2D informative game with self-guided feedback and learning content about fire safety facilities. </p>
 
-- **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)**
+<!-- - **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)** -->
 
 #### Tools and frameworks used:
 - Unity Engine, C#, Adobe Illustrator
