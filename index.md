@@ -63,9 +63,9 @@ execute all backend API endpoints  </p>
 An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.
 
 - [Demo Video](https://youtu.be/Fd79y0LqodA)
-- Built with: **Unity Engine(C#), 3ds Max, Vuforia**
+- Tools: **Unity Engine(C#), 3ds Max, Vuforia**
 
-<img src="images/EmergencyLighting-Sample.png?raw=true"/>
+<img style="width:200px" src="images/EmergencyLighting-Sample.png?raw=true"/>
 
 ---
 
@@ -78,7 +78,7 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 #### Tools and frameworks used:
 - Unity Engine, C#, Vuforia, SP IXTC 360 editor Unity Package, Insta360 Editor
 
-<img src="images/SMG-sample.png?raw=true"/>
+<img style="width:400px" src="images/SMG-sample.png?raw=true"/>
 
 ## Simulation - Sprinkler System
 
