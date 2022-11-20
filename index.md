@@ -59,8 +59,8 @@ execute all backend API endpoints  </p>
 ---
 
 # AR (Augmented Reality) Applications
-#### Augmented Training - Emergency Lighting
-<p>An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.</p>
+### Augmented Training - Emergency Lighting
+An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.
 
 - [Demo Video](https://youtu.be/Fd79y0LqodA)
 - Built with: **Unity Engine(C#), 3ds Max, Vuforia**
