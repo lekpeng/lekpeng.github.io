@@ -60,12 +60,15 @@ execute all backend API endpoints  </p>
 # AR (Augmented Reality) Applications
 ## Augmented Training - Emergency Lighting
 <p>An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.</p>
+
 - [Demo Video](https://youtu.be/Fd79y0LqodA)
 - Built with: **Unity Engine(C#), 3ds Max, Vuforia**
 
 <img src="images/EmergencyLighting-Sample.png?raw=true"/>
 
-## Virtual Walkthrough - Augmented MPA Gallery
+---
+
+### Virtual Walkthrough - Augmented MPA Gallery
 
 <p>A virtual walkthrough of Singapore Maritime Gallery using AR and 360 technology, featuring information hotspots and a 3d map.</p>
 
