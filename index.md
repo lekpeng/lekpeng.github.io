@@ -2,7 +2,7 @@
 
 ### Webooks
 <p>An online library that allows you to browse, borrow and read books, inspired by NLB(National Library) Libby Application. Utilizing relational database and Google-Cloud along with squelize-ORM 
-execute all backend API endpoints  </p>
+execute all backend API endpoints.  </p>
 
 - **[Application Link](https://main--w-ebooks.netlify.app/)**
 - **[Frontend Repo](https://github.com/Sandrafongshurui/webooks-react)**
@@ -16,7 +16,7 @@ execute all backend API endpoints  </p>
 ---
 
 ### Classpass Clone
-<p>A booking application inspired by Classpass web application. Applied MVC achitechture along with a non-relational database and RESTful routes</p>
+<p>A booking application inspired by Classpass web application. Applied MVC achitechture along with a non-relational database and RESTful routes.</p>
 
 - **[Application Link](https://classpass-clone.onrender.com/)**
 - **[Repo](https://github.com/Sandrafongshurui/Classpass)**
@@ -39,7 +39,7 @@ execute all backend API endpoints  </p>
 ---
 
 ### Health Up
-<p>A web application which helps the user achieve their health goal, by calculating the calories they need and recommending recipes for them. Primarily focusing on static rendering, and mobile responsiveness  </p>
+<p>A web application which helps the user achieve their health goal, by calculating the calories they need and recommending recipes for them. Primarily focusing on static rendering, and mobile responsiveness.  </p>
 
 - **[Application Link](https://sandrafongshurui.github.io/Health-Up/index.html)**
 - **[Repo](https://github.com/Sandrafongshurui/Health-Up)**
@@ -69,7 +69,7 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 
 <img style="width:400px" src="images/SMG-sample.png?raw=true"/>
 
-## Simulation - Sprinkler System
+### Simulation - Sprinkler System
 
 <p>An interactive, guided simulation process of the maintenence of the sprinkler system during a power failure </p>
 
@@ -78,24 +78,27 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 
 <img style="width:400px"  src="images/SprinklerSystem-sample.png?raw=true"/>
 
-## Virtual Walkthrough - 360 with 3d Asset 
+---
+
+### Virtual Walkthrough - 360 with 3d Asset 
 
 <p>An interactive, virtual walkthrough exploring a plant with intergrated 3d Model equipment, in addtion to emergency shutdown procedures. </p>
 
 - [Demo Video](https://youtu.be/xnGcVrorWtM)
-- - Tools: **Unity Engine(C#), 3ds Max**
+- Tools: **Unity Engine(C#), 3ds Max**
 
 <img  style="width:400px" src="images/ECTC-Sample.png?raw=true"/>
+
+
+---
 
 ## 2D Gamification - Fire Saftey 101
 
 <p>A 2D informative game with self-guided feedback and learning content about fire safety facilities. </p>
 
-<!-- - **[Application Video](https://sandrafongshurui.github.io/Airbnb-react/)** -->
+- [Demo Video](https://youtu.be/xnGcVrorWtM)
+- Tools: **Unity Engine(C#), Adobe Illustrator**
 
-#### Tools and frameworks used:
-- Unity Engine, C#, Adobe Illustrator
-
-<img src="images/FireSaftey101-sample.png?raw=true"/>
+<img style="width:400px"  src="images/FireSaftey101-sample.png?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
