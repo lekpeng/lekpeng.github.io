@@ -57,15 +57,11 @@ execute all backend API endpoints  </p>
 <img src="images/HealthUp-Sample.png?raw=true"/>
 
 
-# AR(Augmented Reality), 360 Applications
+# AR (Augmented Reality) Applications
 ## Augmented Training - Emergency Lighting
-
 <p>An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.</p>
-
-- **[Application Video](https://youtu.be/Fd79y0LqodA)**
-
-#### Tools and frameworks used:
-- Unity Engine, C#, 3ds Max, Vuforia
+- [Demo Video](https://youtu.be/Fd79y0LqodA)
+- Built with: **Unity Engine(C#), 3ds Max, Vuforia**
 
 <img src="images/EmergencyLighting-Sample.png?raw=true"/>
 
@@ -78,7 +74,7 @@ execute all backend API endpoints  </p>
 #### Tools and frameworks used:
 - Unity Engine, C#, Vuforia, SP IXTC 360 editor Unity Package, Insta360 Editor
 
-<img src="images/SMG-Sample.png?raw=true"/>
+<img src="images/SMG-sample.png?raw=true"/>
 
 ## Simulation - Sprinkler System
 
@@ -89,7 +85,7 @@ execute all backend API endpoints  </p>
 #### Tools and frameworks used:
 - Unity Engine, C#
 
-<img src="images/SprinklerSystem-Sample.png?raw=true"/>
+<img src="images/SprinklerSystem-sample.png?raw=true"/>
 
 ## Virtual Walkthrough - 360 with 3d Asset 
 
@@ -111,6 +107,6 @@ execute all backend API endpoints  </p>
 #### Tools and frameworks used:
 - Unity Engine, C#, Adobe Illustrator
 
-<img src="images/FireSaftey101-Sample.png?raw=true"/>
+<img src="images/FireSaftey101-sample.png?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
