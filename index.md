@@ -75,7 +75,7 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 
 <p>An interactive, guided simulation process of the maintenence of the sprinkler system during a power failure </p>
 
-- [Application Video](https://youtu.be/WS0z_6aJtF8)
+- [Demo Video](https://youtu.be/WS0z_6aJtF8)
 - Tools: **Unity Engine(C#)**
 
 <img style="width:400px"  src="images/SprinklerSystem-sample.png?raw=true"/>

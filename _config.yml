@@ -6,8 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Mobile: 65 97262892
   Email: sandrafong90@gmail.com
+
+description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   <a href="https://www.linkedin.com/in/sandra-fong-903844248">View My LinkedIn Profile</a> 
   <br>
   <a href="https://artofsandrafong.weebly.com/">View My Art Portfolio</a> 
+  <br>
 theme: jekyll-theme-minimal
