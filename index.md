@@ -4,7 +4,7 @@
 <p>An online library that allows you to browse, borrow and read books, inspired by NLB(National Library) Libby application. Utilizing relational database and Google-Cloud along with squelize-ORM to
 execute all backend API endpoints.</p>
 
-- **[Application Link](https://main--w-ebooks.netlify.app/)**
+- **[Application Link](https://w-ebooks.netlify.app/)**
 - **[Frontend Repo](https://github.com/Sandrafongshurui/webooks-react)**
 - **[Backend Repo](https://github.com/Sandrafongshurui/webooks-express/tree/production)**
 - **[WireFrame Desktop](https://xd.adobe.com/view/1636a14c-d45d-4747-ae86-f8a85b0ca908-4365/)**
