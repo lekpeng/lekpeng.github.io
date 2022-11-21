@@ -94,7 +94,7 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 
 ---
 
-## 2D Gamification - Fire Saftey 101
+## 2D Gamification - Fire Safety 101
 
 <p>A 2D informative game with self-guided feedback and learning content about fire safety facilities. </p>
 
