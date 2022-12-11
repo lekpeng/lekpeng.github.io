@@ -6,7 +6,7 @@
 - **[Application Link](https://immersive-asset-library.onrender.com/login)**
 - Tools: **MongoDb, Express, Node.js, JavaScript, Bootstrap, .EJS template, passport.js, iframe**
 
-<img style="width:400px" src="images/Immersive-asset-library-Sample?raw=true"/>
+<img style="width:400px" src="images/Immersive-asset-library-Sample.png?raw=true"/>
 <img style="width:400px" src="images/immersive-library-sample-2.png?raw=true"/>
 
 ---
