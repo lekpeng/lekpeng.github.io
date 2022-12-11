@@ -4,7 +4,7 @@
 <p>An library of immersive assets (3d Models, 360 images etc.) for users to download. Features include uploading of 3d Assets and 360 images and enrollement of students by authorized admin staff.</p>
 
 - **[Application Link](https://immersive-asset-library.onrender.com/login)**
-- Tools: **MongoDb, Express, Node.js, JavaScript, Bootstrap, .EJS template, passport.js, iframe**
+- Tools: **MongoDb, Express, Node.js, JavaScript, Bootstrap, .EJS template, passport.js**
 
 <img style="width:400px" src="images/Immersive-asset-library-Sample.png?raw=true"/>
 <img style="width:400px" src="images/immersive-library-sample-2.png?raw=true"/>
