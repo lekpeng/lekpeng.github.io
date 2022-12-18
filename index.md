@@ -20,7 +20,7 @@ execute all backend API endpoints.</p>
 - **[Backend Repo](https://github.com/Sandrafongshurui/webooks-express/tree/production)**
 - **[WireFrame Desktop](https://xd.adobe.com/view/1636a14c-d45d-4747-ae86-f8a85b0ca908-4365/)**
 - **[WireFrame Mobile](https://xd.adobe.com/view/0ee9aa87-06c8-49bf-9b47-7cdd196a9526-5bba/)**
-- Tools: **Express, Node.js, JavaScript, PostgresSQL, Google-Cloud, Image-kit, Sequelize-ORM, Elephant SQL, ReactJS, React-reader, React-Dropzone, HTML/CSS, MUI Library**
+- Tools: **Express, Node.js, JavaScript, PostgresSQL, Google-Cloud, Image-kit, Sequelize-ORM, Elephant SQL, ReactJS, React-reader, React-Dropzone, React-Hook-Form, HTML/CSS, MUI Library**
 
 <img style="width:400px" src="images/weebooks.png?raw=true"/>
 
