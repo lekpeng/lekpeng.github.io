@@ -1,6 +1,7 @@
 ## Big Two
 
 <p> Big Two is a web application based on the popular homonymous four-player card game. In the game, which was implemented with object oriented programming as the main programming paradigm, the human player plays against three "computer" players, and can perform four main actions: </p>
+
 - sort cards in hand either by suit or value
 - select cards
 - play cards (i.e. add to pile)
@@ -30,7 +31,7 @@ Utilised: MongoDB, Express, EJS, Node, Bcrypt, Socket.io, Leaflet, Multer
 
 Utilised: MongoDB, Express, React, Node, Axios, JWT, Luxon
 
-[Browse](good-films-project.netlify.app))
+[Browse](good-films-project.netlify.app)
 
 <img src="images/good-films.png"/>
 
