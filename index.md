@@ -1,35 +1,42 @@
-## Portfolio
+## Groceries Galore
+
+<p> Groceries Galore is an e-commerce site to buy and sell groceries. The ease of seeing the price of the same item from different merchants makes it more convenient for consumers to purchase groceries at competitive prices. The platform integrates credit card payment processing via Stripe, allowing for a quick and fuss-free experience for both merchant and consumer. Debouncing is also leveraged to reduce unnecessary API calls and improve application performance. </p>
+
+**Utilised: PostgreSQL, Express, React, Node, Nodemailer, Lodash, Stripe API**
+
+[Browse](https://groceries-galore.netlify.app)
+
+<img src="images/groceries-galore.png"/>
 
 ---
+## Big Two
 
-### Category Name 1 
+<p> Groceries Galore is an e-commerce site to buy and sell groceries. The ease of seeing the price of the same item from different merchants makes it more convenient for consumers to purchase groceries at competitive prices. The platform integrates credit card payment processing via Stripe, allowing for a quick and fuss-free experience for both merchant and consumer. Debouncing is also leveraged to reduce unnecessary API calls and improve application performance. </p>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Utilised: PostgreSQL, Express, React, Node, Nodemailer, Lodash, Stripe API**
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Browse](https://lekpeng.github.io/big-2/)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/big-two.png"/>
 
 ---
+## Food Rescue
 
-### Category Name 2
+<p> Groceries Galore is an e-commerce site to buy and sell groceries. The ease of seeing the price of the same item from different merchants makes it more convenient for consumers to purchase groceries at competitive prices. The platform integrates credit card payment processing via Stripe, allowing for a quick and fuss-free experience for both merchant and consumer. Debouncing is also leveraged to reduce unnecessary API calls and improve application performance. </p>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+**Utilised: PostgreSQL, Express, React, Node, Nodemailer, Lodash, Stripe API**
 
----
+[Browse](https://food-rescue.onrender.com)
 
-
-
+<img src="images/food-rescue.png"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Good Films
+
+<p> Groceries Galore is an e-commerce site to buy and sell groceries. The ease of seeing the price of the same item from different merchants makes it more convenient for consumers to purchase groceries at competitive prices. The platform integrates credit card payment processing via Stripe, allowing for a quick and fuss-free experience for both merchant and consumer. Debouncing is also leveraged to reduce unnecessary API calls and improve application performance. </p>
+
+**Utilised: PostgreSQL, Express, React, Node, Nodemailer, Lodash, Stripe API**
+
+[Browse](good-films-project.netlify.app))
+
+<img src="images/good-films.png"/>
